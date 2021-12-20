@@ -225,7 +225,7 @@
    var myImages = [] ;//图像对象 组成的 数组
    for (var i=1; i<8; i++ ){
 	   var img = new Image();
-	   img.src = "images/" + i + ".jpg" ;
+	   img.src = "大学6级单词/images/" + i + ".jpg" ;
 	   //img.style.opacity = "0.5" ;
 	   myImages.push(img) ;
    }
